@@ -1,0 +1,21 @@
+"plant_id";"plant_name";"location";"capacity_kwh";"energy_type"
+1;"Valenzuela Inc";"67666 Roberts Ridges Suite 619
+Port Thomasville, IN 13325";15408.13;"electricity"
+2;"Jimenez-Allen";"24658 Harrell Stravenue Suite 771
+Samuelview, NJ 97873";10662.87;"gas"
+3;"Francis Inc";"990 David Field Suite 642
+Wardside, OR 16063";8690.34;"coal"
+4;"Maddox, Smith and Marsh";"76022 Hodges Streets Apt. 278
+Davidhaven, MI 40794";5449.05;"electricity"
+5;"Villegas PLC";"18277 Davis Spring
+West Tanyashire, AR 41812";12434.8;"electricity"
+6;"Heath-Gordon";"049 Derrick Extension
+Geraldport, OR 22844";12987.45;"coal"
+7;"Paul Group";"399 Martin Pines Apt. 828
+Lake Theresamouth, WA 82801";10637.15;"electricity"
+8;"Jensen, Arnold and Brown";"4280 Tonya Springs
+Jillbury, MO 82905";5359.14;"gas"
+9;"Meadows Group";"831 Laura Estate
+New Austinside, NH 46771";9265.38;"wind"
+10;"Campbell Group";"52706 Garrett Harbors Suite 748
+West Karen, CT 45087";7471.04;"wind"

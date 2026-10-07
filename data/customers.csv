@@ -1,0 +1,201 @@
+"customer_id";"name";"address";"segment";"join_date"
+1;"Michael Moreno";"460 Janet River
+Port Daniel, IA 95740";"commercial";"2022-07-23"
+2;"Alicia Garcia";"968 Steven Burg Apt. 414
+Port Shannon, IL 53609";"commercial";"2020-09-17"
+3;"Robert Watts";"92858 Tammy Shore Suite 258
+Kleinton, NC 02766";"residential";"2017-12-10"
+4;"Michael Watson";"57091 Hayes Via
+Port Gary, IL 53444";"commercial";"2015-02-01"
+5;"Brian Fox";"03456 Frederick Roads Suite 062
+East Kerriborough, CA 10080";"industrial";"2021-04-02"
+6;"Raymond Johnson";"451 William Road Suite 242
+Patriciamouth, DC 67426";"industrial";"2023-04-28"
+7;"Michael Spears";"09506 Linda Rapids Suite 820
+New Robert, KS 30156";"residential";"2022-03-07"
+8;"James Wilson";"13843 Lance Ville
+North Yvette, AK 89818";"industrial";"2024-05-11"
+9;"Nichole Baker";"1596 Lewis Freeway
+Mitchellfurt, MI 35881";"commercial";"2015-06-16"
+10;"Angela Parsons";"330 Cook Drives Apt. 811
+Thompsonhaven, DE 83505";"residential";"2017-11-20"
+11;"Nicholas Anderson";"22889 Ryan Village Suite 145
+Elizabethfurt, PA 89982";"residential";"2016-04-24"
+12;"Gina Smith";"06635 Clark Ville
+West Kelliemouth, PA 15091";"commercial";"2017-01-15"
+13;"Kelly Weiss";"2566 Woods Islands
+West Rebecca, DC 81590";"residential";"2020-10-14"
+14;"Michael Jones";"7061 Savannah Ports
+West Susan, HI 90978";"residential";"2023-02-10"
+15;"Jacob Wood";"684 Alvin Springs
+New Roger, NM 09368";"commercial";"2016-05-17"
+16;"Benjamin Murphy";"5636 Moss Springs Suite 477
+Burkeborough, RI 59080";"industrial";"2019-09-16"
+17;"Anna Stewart";"683 Rodriguez Square
+Matthewstad, PA 93590";"commercial";"2020-10-20"
+18;"Sandra Lewis";"272 White Road Apt. 809
+Port Larryland, KY 00526";"industrial";"2022-08-05"
+19;"Anita Jacobson";"32621 Mary Falls
+East Nathanland, SC 80545";"commercial";"2019-07-11"
+20;"Jason Horton";"10027 Davis Cliffs Apt. 072
+Haroldshire, IN 51086";"industrial";"2018-06-09"
+21;"Nicholas Lucero";"3959 Eric Fields
+Simonview, OK 27860";"commercial";"2021-02-14"
+22;"Megan Robinson";"Unit 8438 Box 1816
+DPO AP 66680";"commercial";"2018-09-28"
+23;"Jordan Hodges";"33381 Emily Terrace
+Crawfordview, SD 09867";"commercial";"2017-02-21"
+24;"Stuart Owen";"543 Ryan Glens Suite 733
+Tatemouth, WV 93899";"industrial";"2015-04-19"
+25;"Amy Simpson";"3080 Davis Fork Suite 368
+Lake Samuelside, MA 95820";"commercial";"2016-08-07"
+26;"Kyle Riley";"63479 David Burgs
+Lisafort, IL 87334";"industrial";"2019-07-20"
+27;"Timothy Roberts";"951 Jay Shores Suite 699
+East Elizabethburgh, DE 31593";"residential";"2024-01-10"
+28;"Christopher Figueroa";"770 Hughes Valley Apt. 579
+Garciafurt, SC 68908";"industrial";"2019-02-10"
+29;"Cheryl Long";"71548 Leslie Row Apt. 808
+Port Gregory, NH 27960";"industrial";"2014-08-22"
+30;"Benjamin Allen";"63832 Medina Lake Suite 055
+Julieburgh, WV 03960";"commercial";"2017-07-23"
+31;"Crystal Mendoza";"USNS Morrow
+FPO AP 42963";"commercial";"2016-09-13"
+32;"Andrew Pierce";"4690 Ashley Shores Apt. 036
+West Kelly, TN 26959";"commercial";"2015-04-02"
+33;"Jeffrey Simmons";"33730 Santiago Burgs
+Port Collinborough, IN 58765";"industrial";"2015-11-26"
+34;"Tyler Hamilton";"795 Moore Club Suite 439
+North Eduardo, MI 96586";"commercial";"2015-08-12"
+35;"Dr. Anthony Carlson";"4032 Jacob Expressway
+Nelsonburgh, AK 95381";"industrial";"2019-12-20"
+36;"Dr. Kevin Martinez";"0812 Kyle Radial
+Jamieton, MA 14739";"industrial";"2016-12-19"
+37;"Michael Johnson Jr.";"17859 John Oval
+Jacquelinestad, KS 51272";"industrial";"2015-01-09"
+38;"Rachel Sullivan";"67208 Perez Ports Suite 737
+Karimouth, OR 29057";"residential";"2020-04-23"
+39;"Michael Webb";"4054 Haney Glen Suite 845
+South Jimmyport, NV 19438";"residential";"2014-11-20"
+40;"Megan Myers";"3288 Hunt Island
+East Paula, NC 29434";"residential";"2017-07-15"
+41;"Jasmine Everett";"3823 Linda River
+North Bethchester, NY 93181";"industrial";"2020-10-24"
+42;"Brian Mullins";"866 Randall Ridges
+Reginaport, WI 26119";"industrial";"2018-11-29"
+43;"Tracy Sparks";"628 Carroll Causeway
+Ericmouth, OK 32714";"commercial";"2019-02-16"
+44;"Jasmine Brown";"60228 Tyrone Crossroad Apt. 540
+Port Richard, DC 62728";"residential";"2022-03-21"
+45;"Michelle Clark";"Unit 3910 Box 9877
+DPO AP 80866";"industrial";"2015-05-19"
+46;"Jacob Bennett";"281 Gregory Manor
+Romanview, DC 81625";"industrial";"2017-01-03"
+47;"Michael Mullen";"9802 Levy Locks Suite 109
+East Richardfort, VT 50745";"commercial";"2014-07-25"
+48;"Rachel Perez";"172 Michael Orchard Apt. 366
+Port Stephenborough, UT 02767";"industrial";"2024-02-21"
+49;"Ronnie Stewart";"494 Patrick Court
+New Ryan, IL 18154";"industrial";"2022-06-10"
+50;"Daniel Watson";"545 Robert Ville Apt. 732
+Lake Timothytown, KY 53142";"residential";"2018-11-04"
+51;"Bradley Daniels";"819 Hall Summit
+Jaredstad, OR 06736";"industrial";"2016-10-21"
+52;"Teresa Steele";"54327 Richards Flat
+Bryceborough, MO 45796";"industrial";"2017-11-02"
+53;"Becky Mclean";"Unit 6506 Box 1872
+DPO AE 81075";"commercial";"2021-05-01"
+54;"Jamie Martin";"30417 Lawrence Mountain Apt. 100
+Port Jerry, OK 97645";"residential";"2016-01-19"
+55;"Nathaniel Nguyen";"691 Shawn Club Apt. 643
+North Jeffrey, GA 18305";"residential";"2017-03-22"
+56;"David Walker";"USS Rodriguez
+FPO AP 45553";"residential";"2022-05-30"
+57;"Amy Mills";"3946 Thompson Spring Suite 895
+South Casey, OR 12215";"industrial";"2021-12-12"
+58;"Victoria Davis";"02487 Sandoval Trafficway
+Wilsonport, WI 95143";"residential";"2021-08-16"
+59;"Cynthia Briggs";"PSC 8504, Box 1023
+APO AE 32118";"industrial";"2015-07-21"
+60;"Mark Peterson";"84898 Lawrence Manor
+Port Tinaland, DC 06753";"residential";"2021-04-11"
+61;"Susan Taylor";"13840 Christine Points Apt. 580
+North Gregory, NH 96898";"commercial";"2014-08-24"
+62;"Tracey Malone";"29410 Kimberly Spur Apt. 170
+Lake Kenneth, HI 06030";"commercial";"2020-12-24"
+63;"Beth Figueroa";"USNV Wilson
+FPO AE 32881";"commercial";"2019-08-31"
+64;"Lisa Atkinson";"66433 Joe Mall
+Davidfort, CO 81077";"residential";"2023-11-04"
+65;"Jessica Alvarado";"73914 Kristina Lights
+Lake Michael, LA 59564";"industrial";"2022-06-20"
+66;"Brenda Morrison";"417 Douglas Ville Suite 320
+Erinburgh, NY 24679";"residential";"2016-04-10"
+67;"Nancy Stevens";"242 Anderson Cove Suite 485
+Rodrigueztown, RI 25379";"commercial";"2016-09-09"
+68;"Emma Tucker";"26407 Sanders Ville
+New Sarahside, TN 67122";"industrial";"2015-02-03"
+69;"Ariel Cook";"080 Patrick Heights
+East Robert, NV 12095";"industrial";"2017-02-04"
+70;"Samantha Holland";"1303 Gates Underpass Suite 278
+East Emily, IA 68365";"commercial";"2015-01-10"
+71;"Gregory Miles";"0107 Michelle Isle
+North Jay, WI 20040";"commercial";"2019-10-21"
+72;"Jean Holder";"739 Jose Cliff Suite 652
+East Benjamin, IA 32609";"residential";"2023-03-24"
+73;"Anna Hale";"449 Bernard Dam
+New Douglas, OK 68018";"residential";"2022-11-16"
+74;"Danielle Adams";"390 Daniels Mountain Apt. 443
+Port Jill, CT 52450";"residential";"2018-03-16"
+75;"Ronald Jones";"1155 Edwards Coves Apt. 830
+Marktown, FL 10342";"commercial";"2015-06-30"
+76;"Ryan Salinas";"66336 Walker Mountain
+Lake Nichole, IA 42247";"commercial";"2015-10-14"
+77;"Frank Harris";"9015 Samuel Spur
+Elizabethborough, VA 86535";"industrial";"2022-08-30"
+78;"Stacey Aguirre";"160 Howard Walks Suite 984
+Cameronshire, RI 68130";"residential";"2019-10-31"
+79;"Benjamin Bradley";"8214 Heather Cove Suite 238
+Tammybury, MS 30766";"residential";"2017-05-29"
+80;"Phillip Smith";"3491 Kendra Prairie
+North Sarahshire, ND 48864";"industrial";"2017-12-15"
+81;"Lisa Gordon";"341 Mcconnell Trail Suite 830
+Lake Biancabury, GA 40363";"commercial";"2014-09-01"
+82;"Shane Schmidt";"80148 Albert Corner
+Jacobsborough, NH 06269";"residential";"2023-02-04"
+83;"Richard Miller";"9181 Hooper Villages
+North Christopherberg, RI 24651";"commercial";"2024-01-04"
+84;"Dr. Laura Schmidt";"15489 James Unions
+Port Donaldside, UT 73748";"commercial";"2015-09-27"
+85;"Kelli Castaneda";"8630 Robert Burgs
+Lake Samanthaland, NY 08475";"commercial";"2023-10-14"
+86;"Tyler Bailey";"319 Jacob Shores Apt. 090
+South Kathy, NE 83960";"industrial";"2017-12-11"
+87;"Kaitlyn Hughes";"4988 Hernandez Track
+Port Shelby, PA 72928";"residential";"2019-01-01"
+88;"Daniel Webb";"65820 Brown Center
+Port Elizabethshire, WV 11835";"commercial";"2015-07-27"
+89;"Paul Jackson";"588 Knox Tunnel Apt. 589
+Port Courtneyshire, VT 21295";"industrial";"2016-07-22"
+90;"Jade Rios";"406 Matthew Via Apt. 990
+East Ernestfort, NE 64256";"residential";"2017-08-10"
+91;"Scott Campbell";"9427 Mcdaniel Branch
+Kentville, VT 24925";"industrial";"2019-07-22"
+92;"Lisa Garcia";"837 Shannon Ferry Suite 777
+North Danielside, KY 21330";"commercial";"2019-11-19"
+93;"George Reynolds";"4411 Acosta Knoll Apt. 162
+Sullivanbury, CT 00808";"industrial";"2015-02-02"
+94;"Sally Wood";"479 Samuel Harbors Apt. 281
+Martinezville, WA 52889";"commercial";"2022-12-26"
+95;"Nicholas Johns";"69949 Stephanie View Suite 947
+New Stephen, NY 42027";"industrial";"2023-06-26"
+96;"Kimberly Taylor";"1515 Dalton Courts
+New Madisonbury, MA 07124";"industrial";"2020-03-02"
+97;"Thomas Hebert";"2920 Jackson Locks
+Lake Dianaside, NH 52248";"industrial";"2019-06-23"
+98;"Rebecca Mata";"3922 Smith Vista
+Shafferfurt, NH 78015";"residential";"2018-11-21"
+99;"Linda Holland";"0630 Beck Alley
+West Benjaminhaven, IL 44358";"commercial";"2022-04-09"
+100;"Christopher Smith";"531 Burgess Park
+Haleyton, PA 07736";"residential";"2021-04-18"
